@@ -1,4 +1,0 @@
-,Exp,n_estimators,max_depth,learning_rate,min_samples_leaf,min_sample_split,test%,num of shuffle,label_outlier,Train_RMSE_mean,Train_RMSE_std,Test_RMSE_mean,Test_RMSE_std
-1,GradientBoostingRegressor,100,5,0.2,6,4,5,10,No,61630.32949802553,149.31090605575324,67955.07031035761,6217.865315400259
-2,GradientBoostingRegressor,100,4,0.2,6,4,5,10,No,67927.32760747577,318.42746849271595,73443.86943028946,6666.299887184051
-3,GradientBoostingRegressor,100,3,0.2,6,4,5,10,No,75368.78476513836,288.84294742453653,77673.62559094097,2865.2812296098214
