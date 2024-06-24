@@ -4,7 +4,7 @@
 2. Use historical sale data, property features and economic indicators.
 3. Aim to provide accurate and actionable pricing and remodeling recommendations to buyers and sellers.
 ## Audience
-1. House buyers, sellers and real estate agents in in Wake County, NC 
+1. House buyers, sellers and real estate agents in Wake County, NC 
 2. Example question1: What is a reasonable price for the property I am interested in buying? 
 3. Example question2: What is the optimal listing price for my property? 
 4. Example question3: What are the key factors influencing the predicted prices?
